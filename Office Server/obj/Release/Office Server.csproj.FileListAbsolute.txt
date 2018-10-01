@@ -1,0 +1,16 @@
+C:\Users\nwl\Desktop\Office Server\Office Server\bin\Release\Office Server.exe.config
+C:\Users\nwl\Desktop\Office Server\Office Server\bin\Release\Office Server.exe
+C:\Users\nwl\Desktop\Office Server\Office Server\bin\Release\Office Server.pdb
+C:\Users\nwl\Desktop\Office Server\Office Server\bin\Release\Oracle.Web.dll
+C:\Users\nwl\Desktop\Office Server\Office Server\bin\Release\OraProvCfg.exe
+C:\Users\nwl\Desktop\Office Server\Office Server\obj\Release\Office Server.csprojResolveAssemblyReference.cache
+C:\Users\nwl\Desktop\Office Server\Office Server\obj\Release\Interop.ORAOLEDBLib.dll
+C:\Users\nwl\Desktop\Office Server\Office Server\obj\Release\Office Server.csproj.ResolveComReference.cache
+C:\Users\nwl\Desktop\Office Server\Office Server\obj\Release\Office_Server.Form1.resources
+C:\Users\nwl\Desktop\Office Server\Office Server\obj\Release\Office_Server.Form2.resources
+C:\Users\nwl\Desktop\Office Server\Office Server\obj\Release\Office_Server.Form3.resources
+C:\Users\nwl\Desktop\Office Server\Office Server\obj\Release\Office_Server.Form4.resources
+C:\Users\nwl\Desktop\Office Server\Office Server\obj\Release\Office_Server.Properties.Resources.resources
+C:\Users\nwl\Desktop\Office Server\Office Server\obj\Release\Office Server.csproj.GenerateResource.Cache
+C:\Users\nwl\Desktop\Office Server\Office Server\obj\Release\Office Server.exe
+C:\Users\nwl\Desktop\Office Server\Office Server\obj\Release\Office Server.pdb
